@@ -5,7 +5,7 @@
 # Introduction
 A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a Dashboard and publishing to PowerBi Service by [Theoyinbooke](https://twitter.com/TheOyinbooke?s=20&t=lOOFsBn0xfKw8ud_FJf2Jg)
 
-# Introduction
+# Problem Statement
 Pelumi a fresh graduate from the University is interested in getting a car, she is torn between getting the car this month or getting it later next year.
 She started researching what will be the best option for her. 
 She then remembered me, her best friend who is currently undergoing the Data Analytics track training for the #NG30daysoflearning. She sent a dataset to me, and told me to derive meaningful insights that will help her make a decision in getting a car. 
@@ -15,7 +15,7 @@ I went through the dataset. Thus the big question that need answer to is **"Can 
 # Data Sourcing
 Data was provided in the raw form and can be gotten [here](https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/KaggleCarData.csv)
 
-# Data Transfprmation
+# Data Transformation
 - Data was gotten from the web and exported into Excel
 - In Excel, I created a new column showing the cars age (Current year'2022' - Car's year'Year of the car when it was bought'
 - I then loaded into PowerBi from Excel, Where i did futher transformations in Power Qwery
@@ -64,7 +64,7 @@ Futher research shows The reason is simple: While a dealer needs to make a profi
 
 
 ### A car with no previous owners or 3 which is more expensive?
-A car with no previous owner or maybe 1 is definitely more expensive than a car with 3 previous owners. Which brings us to a conclusion that "The lesser the previous owners, the higher the selling price"
+A car with no previous owner or maybe 1 is definitely more expensive than a car with 3 previous owners. Which brings us to a conclusion that "The lesser the previous owners, the higher the selling price". This can also be linked to depreciation in value of used cars. The more the previous owners, the higher the depreciation value.
 
 _The dataset had missing values for 2 owners_
 <img width="366" alt="owners" src="https://user-images.githubusercontent.com/105246702/178114317-18334817-ce50-4781-bba9-9ccc4770ddfa.png">
@@ -107,5 +107,14 @@ Our analysis showed that the younger the car, the higher the selling price
 When thinking of buying a car, one might be caught between buying a new or used car based on available funds. Analysis shows that on average about 707.73 dollars is saved when one goes for a used car.
 <img width="544" alt="cost saved" src="https://user-images.githubusercontent.com/105246702/178114527-910b0552-dda1-4c05-87c1-834bbf9098f6.png">
 
+# Conclusion
+- Present Price of a car plays an important role in predicting the Selling price, as one increases the other increases as well
+- Car age affects the selling price negatively, as the car ages the selling price reduces
+- Car with Petrol fuel type is more affordable
+- Car of Mannual type is less expensive compared to Automatic
+- Buying a car from an Individual is more Affordable than buying from a Dealer.
+- Car with lesser previous owners are more expensive
 
-    
+# What Should Pelumi Do
+Pelumi should get her car this month, because of the unstable economy there is a possibility the present price will increase thus an increase in selling price. In as much that it is cheaper getting from an individual, it is not adviseable, a dealer will be better cos they have a reputation to protect.
+The more the previous owners, the more depreciated in value the car is, its adviceable to go for a car with no or just 1 previous owner, tho the cost might be high.
