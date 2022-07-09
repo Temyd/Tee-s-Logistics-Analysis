@@ -60,6 +60,7 @@ Data was provided in the raw form and can be gotten [here](https://raw.githubuse
 ### Dealers offer a higher selling price
 We have two seller types "Individual and Dealers". Selling price of car is higher when sold by Dealers compared to buying from an Individual.
 Futher research shows The reason is simple: While a dealer needs to make a profit on each vehicle, a private seller doesn't have the same concern. Instead, private sellers are usually trying to sell an old vehicle so they can buy a new one, and that means they're often more willing to negotiate just to ensure that the car is sold quickly. 
+
 <img width="322" alt="selle type" src="https://user-images.githubusercontent.com/105246702/178114298-a29c6571-23b6-47a1-b0bf-c113cc0c4914.png">
 
 
@@ -67,11 +68,13 @@ Futher research shows The reason is simple: While a dealer needs to make a profi
 A car with no previous owner or maybe 1 is definitely more expensive than a car with 3 previous owners. Which brings us to a conclusion that "The lesser the previous owners, the higher the selling price". This can also be linked to depreciation in value of used cars. The more the previous owners, the higher the depreciation value.
 
 _The dataset had missing values for 2 owners_
+
 <img width="366" alt="owners" src="https://user-images.githubusercontent.com/105246702/178114317-18334817-ce50-4781-bba9-9ccc4770ddfa.png">
 
 
 ### Mannual Cars are cheaper
 The insight gotten from the selling price of both mannual and automatic cars, showed that the company sold more mannual cars, which is an indication that it is cheaper compared to automatic cars
+
 <img width="364" alt="mode of trans" src="https://user-images.githubusercontent.com/105246702/178114360-1ed7810a-e211-467f-8388-490cf853bec7.png">
 
 
@@ -90,21 +93,25 @@ Futher research shows that Currently, in Nigeria, we have less than five CNG pla
 
 ### Selling Price and Current Price have a positive relationship
 As the Present price of a car increases the selling price also tends to increase which shows a  Positive linear correlation.
+
 <img width="347" alt="sp vs pp" src="https://user-images.githubusercontent.com/105246702/178114482-43b376bc-e7f4-4e82-b26a-d09c0aa05c2f.png">
 
 
 ### The Lesser the kilometers(Km) driven the more expensive the car is
 The lesser a car has been driven the more expensive it is. 
+
 <img width="340" alt="km drive" src="https://user-images.githubusercontent.com/105246702/178114511-ff2bd32e-f812-4d86-9bc1-87277d3c0847.png">
 
 
 ### The Car's Age has something to say about the selling price,
 Our analysis showed that the younger the car, the higher the selling price
+
 <img width="349" alt="car age" src="https://user-images.githubusercontent.com/105246702/178114519-1b62afb2-86e5-45c3-9818-f6d819ae4103.png">
 
 
 ### Cost Saved
 When thinking of buying a car, one might be caught between buying a new or used car based on available funds. Analysis shows that on average about 707.73 dollars is saved when one goes for a used car.
+
 <img width="544" alt="cost saved" src="https://user-images.githubusercontent.com/105246702/178114527-910b0552-dda1-4c05-87c1-834bbf9098f6.png">
 
 # Conclusion
