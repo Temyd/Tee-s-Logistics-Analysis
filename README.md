@@ -1,4 +1,4 @@
-# Tee-s-Logistics-Analysis
+# Tee's-Logistics-Analysis
 <img width="548" alt="intro car" src="https://user-images.githubusercontent.com/105246702/178114119-a45b1f96-d1ce-46fd-ba43-3972a8060fd3.png">
 
 
@@ -20,7 +20,7 @@ Data was provided in the raw form and can be gotten [here](https://raw.githubuse
 - In Excel, I created a new column showing the cars age (Current year'2022' - Car's year'Year of the car when it was bought'
 - I then loaded into PowerBi from Excel, Where i did futher transformations in Power Qwery
 - In Power Qwery, I made sure my data types were correct and every other parameters was appropriate
-- After which is was loaded into PowerBi 
+- After which it was loaded into PowerBi 
 - In PowerBi I created a DAX measure to show the Average Cost saved (Average Present price - Average Selling price)
 - It was then ready for Analysis and Visualisation
 
