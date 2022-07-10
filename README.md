@@ -7,7 +7,7 @@ A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a D
 The major goal was to Publish on the PowerBi service and also create a dashboard the stakeholders would be interested in seeing. One thing I was also able to learn along the way is the use of PowerBi to make predictions.
 
 # Problem Statement
-I am interested in buying myself a car, reeasrch tells me that due to the High price of new cars and lack of funds by customers, the sales of used cars is on the increase. Having known this as a Data Analyst, I decided to work on a dataset to know what affects the price of used cars and see if there is a way to predict what the price will be in the coming months and years.
+As a business woman and having realised a little profit, I decided it was time I get myself a car. However researchh tells me that due to the High price of new cars and lack of funds by customers, the sales of used cars is on the increase. Having known this as a Data Analyst, I decided to work on a dataset to know what affects the price of used cars and see if there is a way to predict what the price will be in the coming months and years.
 
 # Data Sourcing
 Data was provided in the raw form and can be gotten [here](https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/KaggleCarData.csv)
@@ -120,5 +120,6 @@ When thinking of buying a car, one might be caught between buying a new or used 
 - Car with lesser previous owners are more expensive
 
 # What should be done
-Anyone interested in getting a car, should get it as soon as possible, because of the unstable economy there is a possibility the present price will increase thus an increase in selling price. In as much that it is cheaper getting from an individual, it is not adviseable, a dealer will be better cos they have a reputation to protect.
-The more the previous owners, the more depreciated in value the car is, its adviceable to go for a car with no or just 1 previous owner, tho the cost might be high.
+- Anyone interested in getting a car, should get it as soon as possible, because of the unstable economy there is a possibility the present price will increase thus an increase in selling price.
+- In as much that it is cheaper getting from an individual, it is not adviseable, a dealer will be better cos they have a reputation to protect.
+- The more the previous owners, the more depreciated in value the car is, its adviceable to go for a car with no or just 1 previous owner, though the cost might be high.
