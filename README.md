@@ -51,7 +51,9 @@ Data was provided in the raw form and can be gotten [here](https://raw.githubuse
      
 
 # Data Visualisation
-[Interact with dashboard here]()
+<img width="638" alt="car analysis" src="https://user-images.githubusercontent.com/105246702/178162633-ab1de210-6c30-4cb3-83c2-6ac8c0d8209d.png">
+
+[Interact with dashboard here](https://app.powerbi.com/view?r=eyJrIjoiYTI5ZTU2OTctNWI5Yi00Y2M0LTk2NmQtMzRjNDM5Zjc3MjNkIiwidCI6IjBjZmU3YmI2LTZhMzUtNDM4OS1hODQ4LTU1ZTdjZjZlN2NmMSJ9&pageName=ReportSectionc2281e68380e7003ca98)
 
 # Findings
 ### Dealers offer a higher selling price
