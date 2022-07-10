@@ -4,10 +4,10 @@
 
 # Introduction
 A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a Dashboard and publishing to PowerBi Service by [Theoyinbooke](https://twitter.com/TheOyinbooke?s=20&t=lOOFsBn0xfKw8ud_FJf2Jg).
-I created this report using a dataset that was provided to us, the major goal was to Publish on the PowerBi service and also create a dashboard the stakeholders would be interested in seeing. One thing I was also able to learn along the way is the use of PowerBi to make predictions.
+The major goal was to Publish on the PowerBi service and also create a dashboard the stakeholders would be interested in seeing. One thing I was also able to learn along the way is the use of PowerBi to make predictions.
 
 # Problem Statement
-Duke, is interested in getting a car, due to the increase in price of new cars, he can't afford them due to lack of funds thus he has to buy a used car.
+I am interested in buying myself a car, reeasrch tells me that due to the High price of new cars and lack of funds by customers, the sales of used cars is on the increase. Having known this as a Data Analyst, I decided to work on a dataset to know what affects the price of used cars and see if there is a way to predict what the price will be in the coming months and years.
 
 # Data Sourcing
 Data was provided in the raw form and can be gotten [here](https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/KaggleCarData.csv)
@@ -89,16 +89,15 @@ Futher research shows that Currently, in Nigeria, we have less than five CNG pla
 
 
 ### Selling Price and Current Price have a positive relationship
-As the Present price of a car increases the selling price also tends to increase which shows a  Positive linear correlation.
+As the Present price of a car increases the selling price also tends to increase which shows a  Positive linear correlation. It should be noted that due to the present economic situation globally, there is a possibility present prices of cars will keep increasing which means the selling price also increases.
 
 <img width="344" alt="km drive" src="https://user-images.githubusercontent.com/105246702/178146933-324a632b-22d3-4d9a-b128-94b49e7f6292.png">
 
 
-
 ### The Lesser the kilometers(Km) driven the more expensive the car is
 The lesser a car has been driven the more expensive it is. 
-<img width="346" alt="sp vs pp" src="https://user-images.githubusercontent.com/105246702/178146940-882bcf0e-c988-4e96-ab1e-af84972f12f6.png">
 
+<img width="346" alt="sp vs pp" src="https://user-images.githubusercontent.com/105246702/178146940-882bcf0e-c988-4e96-ab1e-af84972f12f6.png">
 
 
 ### The Car's Age has something to say about the selling price,
@@ -120,6 +119,6 @@ When thinking of buying a car, one might be caught between buying a new or used 
 - Buying a car from an Individual is more Affordable than buying from a Dealer.
 - Car with lesser previous owners are more expensive
 
-# What Should Pelumi Do
-Pelumi should get her car this month, because of the unstable economy there is a possibility the present price will increase thus an increase in selling price. In as much that it is cheaper getting from an individual, it is not adviseable, a dealer will be better cos they have a reputation to protect.
+# What should be done
+Anyone interested in getting a car, should get it as soon as possible, because of the unstable economy there is a possibility the present price will increase thus an increase in selling price. In as much that it is cheaper getting from an individual, it is not adviseable, a dealer will be better cos they have a reputation to protect.
 The more the previous owners, the more depreciated in value the car is, its adviceable to go for a car with no or just 1 previous owner, tho the cost might be high.
