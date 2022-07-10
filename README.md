@@ -3,7 +3,8 @@
 
 
 # Introduction
-A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a Dashboard and publishing to PowerBi Service by [Theoyinbooke](https://twitter.com/TheOyinbooke?s=20&t=lOOFsBn0xfKw8ud_FJf2Jg)
+A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a Dashboard and publishing to PowerBi Service by [Theoyinbooke](https://twitter.com/TheOyinbooke?s=20&t=lOOFsBn0xfKw8ud_FJf2Jg).
+I created this report using a dataset that was provided to us, the major goal was to Publish on the PowerBi service and also create a dashboard the stakeholders would be interested in seeing. One thing I was also able to learn along the way is the use of PowerBi to make predictions.
 
 # Problem Statement
 Duke, is interested in getting a car, due to the increase in price of new cars, he can't afford them due to lack of funds thus he has to buy a used car.
