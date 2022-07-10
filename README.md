@@ -6,11 +6,7 @@
 A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a Dashboard and publishing to PowerBi Service by [Theoyinbooke](https://twitter.com/TheOyinbooke?s=20&t=lOOFsBn0xfKw8ud_FJf2Jg)
 
 # Problem Statement
-Pelumi a fresh graduate from the University is interested in getting a car, she is torn between getting the car this month or getting it later next year.
-She started researching what will be the best option for her. 
-She then remembered me, her best friend who is currently undergoing the Data Analytics track training for the #NG30daysoflearning. She sent a dataset to me, and told me to derive meaningful insights that will help her make a decision in getting a car. 
-
-I went through the dataset. Thus the big question that need answer to is **"Can we Predict the Price of the Car She wants to buy?"** Bearing in mind that due to the high cost of new cars, most people tend to be able to afford Used Cars. Thus there is a need to be able to predict the selling price of the used cars
+Duke, is interested in getting a car, due to the increase in price of new cars, he can't afford them due to lack of funds thus he has to buy a used car.
 
 # Data Sourcing
 Data was provided in the raw form and can be gotten [here](https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/KaggleCarData.csv)
@@ -64,7 +60,7 @@ Futher research shows The reason is simple: While a dealer needs to make a profi
 <img width="322" alt="selle type" src="https://user-images.githubusercontent.com/105246702/178114298-a29c6571-23b6-47a1-b0bf-c113cc0c4914.png">
 
 
-### A car with no previous owners or 3 which is more expensive?
+### Depreciation in value affects selling price
 A car with no previous owner or maybe 1 is definitely more expensive than a car with 3 previous owners. Which brings us to a conclusion that "The lesser the previous owners, the higher the selling price". This can also be linked to depreciation in value of used cars. The more the previous owners, the higher the depreciation value.
 
 _The dataset had missing values for 2 owners_
@@ -94,13 +90,14 @@ Futher research shows that Currently, in Nigeria, we have less than five CNG pla
 ### Selling Price and Current Price have a positive relationship
 As the Present price of a car increases the selling price also tends to increase which shows a  Positive linear correlation.
 
-<img width="347" alt="sp vs pp" src="https://user-images.githubusercontent.com/105246702/178114482-43b376bc-e7f4-4e82-b26a-d09c0aa05c2f.png">
+<img width="344" alt="km drive" src="https://user-images.githubusercontent.com/105246702/178146933-324a632b-22d3-4d9a-b128-94b49e7f6292.png">
+
 
 
 ### The Lesser the kilometers(Km) driven the more expensive the car is
 The lesser a car has been driven the more expensive it is. 
+<img width="346" alt="sp vs pp" src="https://user-images.githubusercontent.com/105246702/178146940-882bcf0e-c988-4e96-ab1e-af84972f12f6.png">
 
-<img width="340" alt="km drive" src="https://user-images.githubusercontent.com/105246702/178114511-ff2bd32e-f812-4d86-9bc1-87277d3c0847.png">
 
 
 ### The Car's Age has something to say about the selling price,
