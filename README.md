@@ -7,7 +7,7 @@ A project to showcase what I learnt Day 17 of #NG30daysoflearning. 'Creating a D
 The major goal was to Publish on the PowerBi service and also create a dashboard the stakeholders would be interested in seeing. One thing I was also able to learn along the way is the use of PowerBi to make predictions.
 
 # Problem Statement
-As a business woman and having realised a little profit, I decided it was time I get myself a car. However researchh tells me that due to the High price of new cars and lack of funds by customers, the sales of used cars is on the increase. Having known this as a Data Analyst, I decided to work on a dataset to know what affects the price of used cars and see if there is a way to predict what the price will be in the coming months and years.
+Pelu a working class woman, decided one of her new year resolutions is to get herself a car. However research tells us that due to the High price of new cars and lack of funds by customers, the sales of used cars is on the increase. Having known this as a Data Analyst, I want to help Pelu predict the prices of cars in the coming months or years so she will know how to plan her budget.
 
 # Data Sourcing
 Data was provided in the raw form and can be gotten [here](https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-Using-Power-BI-for-Students/main/KaggleCarData.csv)
